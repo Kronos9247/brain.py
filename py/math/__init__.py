@@ -31,6 +31,7 @@ class Trainer():
     def get_outputs(self):
         return self.outs[len(self.outs) - 1]
 
+    #backprop is unfinished
     def backprop(self, targets):
         # outputs = self.get_outputs()
         # outputs_error = np.array(targets) - outputs
