@@ -1,2 +1,2 @@
 # brain.py
-# backprop is unfinished
+backprop is unfinished
